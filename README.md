@@ -1,9 +1,5 @@
 <img align="center" src='./awesome-frontend.jpg' />
 
-<h1 align="center">
-  前端技术图谱
-</h1>
-
 📦 这可能是一份最全的前端技术图谱
 
 # 模块分布
